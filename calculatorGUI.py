@@ -1,3 +1,4 @@
+# pip install customtkinter==5.2.1
 # importing modules
 from tkinter import *
 import customtkinter as ck
